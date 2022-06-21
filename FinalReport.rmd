@@ -66,7 +66,7 @@ basicCC <- ggplot(dd2,aes(x=race,y=prcnt*100,fill=cappun))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
-In this graph we can see
+In this graph we can see that the percents has both     white and other favoring heavily with  capitol     punishment, while blacks are almost split in half. But   in the count it looks as if both black and other has   very little participation.    
 
 ### Numerical Descriptive Results
 
@@ -83,6 +83,7 @@ rowPerc(table2)
 colPerc(table2)
 ```
 
+Looking at the data in a numerical spread sheet we can   see that again white and other having a higher    percentage for  capitol punishment, and black oppose to   is even though, there is almost split in the middle.  
 
 ## Inferential Results
 
