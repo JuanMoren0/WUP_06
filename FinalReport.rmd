@@ -107,7 +107,7 @@ Using the Pearson's Chi-squared test, we can see that once again   whites are fo
 ```{r}
 fisherXY(mydata$cappun,mydata$race)
 ```
- 
+ This shows that even if we were to mix both blacks, and other   races, white greatly outnumbers the both of them. Meaning that    any way the whites will go that option will have a higher   advantage.  
 
 # Discussion and Conclusion
 
