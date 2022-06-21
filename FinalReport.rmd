@@ -81,7 +81,7 @@ rowPerc(table2)
 colPerc(table2)
 ```
 
-Take the graph to a numerical sense, we see again both   whites, and other categories are in favor of  capitol   punishment, while blacks are oppose to it.  
+Take the graph to a numerical sense, we see again both   whites, and other categories are in favor of  capitol   punishment, while blacks are oppose to it. Not only that the whites make more of the population tipping the scales when it comes to dissensions like   this.    
 
 ## Inferential Results
 
@@ -99,6 +99,7 @@ fisher.test(table2)
 #fisherXY(mydata$race,mydata$cappun)
 ```
 
+Using the Pearson's Chi-squared test, we can see that once again   whites are for capitol punishment, we can also see a exact test   near the bottom here, meaning that we may need to have a second   chart to verify a few things.  
 
 
 
