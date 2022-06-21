@@ -107,7 +107,7 @@ Using the Pearson's Chi-squared test, we can see that once again   whites are fo
 ```{r}
 fisherXY(mydata$cappun,mydata$race, printAll = TRUE)
 ```
- Notice the p-value, with out it being 1, there is a difference   and the data above can prove so.  
+ Notice the p-value, with out it being 1, the data tells us that there is a difference   between each of the race groups, and the data above can prove so.  
 
 # Discussion and Conclusion
 
