@@ -113,4 +113,4 @@ fisherXY(mydata$cappun,mydata$race, printAll = TRUE)
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-having less variables, we will have more data since the data that   was iven is going through less filters, we can see a clearer   diffrence between the different races.  
+having less variables, we will have more data since the data that   was given is going through less filters, we can see a clearer   difference between the different races, than if we were to run this with more variables.  
