@@ -177,7 +177,7 @@ fisherXY = function(x, y, confL = 0, printAll=FALSE){
 fisherXY(mydata$cappun,mydata$race, printAll = TRUE)
 ```
  
- Using the fisherxy we can see the accurate p-value between all the different races and notice how close it is to 1 but not exactly, meaning that there is some difference present.
+ Using the fisherxy we can see the accurate p-value between all the different races and notice how close it is to 1 but not exactly, meaning that there is some difference present between the diffrent races.
 
 # Discussion and Conclusion
 
