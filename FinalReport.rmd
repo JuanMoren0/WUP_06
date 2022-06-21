@@ -100,6 +100,12 @@ chisqtestGC(table2)
 fisher.test(table2)
 #fisherXY(mydata$race,mydata$cappun)
 ```
+
+In this data sheet shows that we need to add another table since the p-value is quite small, this way we can see our data more clearly.
+
+
+
+
 ```{r}
 fisherXY = function(x, y, confL = 0, printAll=FALSE){
   # Inputs: 
