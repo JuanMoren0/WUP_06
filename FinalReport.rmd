@@ -177,6 +177,7 @@ fisherXY = function(x, y, confL = 0, printAll=FALSE){
 fisherXY(mydata$cappun,mydata$race)
 ```
  
+ Using the fisherxy we can see the acuate p-value, and see how   each fair againts one another, and as seen before whites having a   bigger impact then both black or other.   
 
 # Discussion and Conclusion
 
