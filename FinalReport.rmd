@@ -101,7 +101,7 @@ fisher.test(table2)
 #fisherXY(mydata$race,mydata$cappun)
 ```
 
-In this data sheet shows that we need to add another table since the p-value is quite small, this way we can see our data more clearly, and see if there is a diffrence.  
+In this data sheet shows that we need to add another table since the p-value is quite small, this way we can see our data more clearly, and see if there is a difference.  
 
 
 
@@ -177,10 +177,10 @@ fisherXY = function(x, y, confL = 0, printAll=FALSE){
 fisherXY(mydata$cappun,mydata$race, printAll = TRUE)
 ```
  
- Using the fisherxy we can see the accurate p-value, and see how   each fair against one another, and as seen before whites having a   bigger impact then both black or other.   
+ Using the fisherxy we can see the accurate p-value, and see how   each fair against one another, and as seen before whites having a  bigger impact then both black or other.   
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-Seeing that having more variables will lead us to have less data   since the data we have been given, will be filtered and arrange   with the variables that was put in place, meaning there will be   a harder time to tell if there is a difference or not.  
+Seeing that having more variables will lead us to have less data   since the data we have been given, will be filtered and arrange   with the variables that was put in place, meaning there will be   a harder time to tell if there is a difference or not. 
