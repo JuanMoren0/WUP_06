@@ -81,6 +81,7 @@ rowPerc(table2)
 colPerc(table2)
 ```
 
+Take the graph to a numerical sense, we see again both   whites, and other categories are in favor of  capitol   punishment, while blacks are oppose to it.  
 
 ## Inferential Results
 
