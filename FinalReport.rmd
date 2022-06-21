@@ -105,10 +105,12 @@ Using the Pearson's Chi-squared test, we can see that once again   whites are fo
 
 
 ```{r}
-fisherXY(mydata$cappun,mydata$race)
+fisherXY(mydata$cappun,mydata$race, printAll = TRUE)
 ```
- This shows that even if we were to mix both blacks, and other   races, white greatly outnumbers the both of them. Meaning that    any way the whites will go that option will have a higher   advantage.  
+ Notice the p-value, with out it being 1, there is a difference   and the data above can prove so.  
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+having less variables, we will have more data since the data that   was iven is going through less filters, we can see a clearer   diffrence between the different races.  
