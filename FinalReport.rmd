@@ -63,6 +63,7 @@ basicCC <- ggplot(dd2,aes(x=race,y=prcnt*100,fill=cappun))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
+In the graphs above it shows that whites has a higher   percent to favor, while blacks has a higher oppose, and   other races was in favor of  capitol punishment. both   in counts and in percentages.   
 
 
 ### Numerical Descriptive Results
