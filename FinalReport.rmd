@@ -99,6 +99,10 @@ fisher.test(table2)
 #fisherXY(mydata$race,mydata$cappun)
 ```
 
+
+
+
+
 ```{r}
 fisherXY(mydata$cappun,mydata$race)
 ```
